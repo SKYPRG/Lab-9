@@ -1,1 +1,1 @@
-Multiplaication for the numbers from to n
+Multiplaication for the numbers from 1 to n
