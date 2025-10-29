@@ -1,1 +1,1 @@
-# Lab-9
+Multiplaication for the numbers from to n
